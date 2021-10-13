@@ -33,7 +33,6 @@ const menunsfw = (prefix, sender) => {
 ║➩ ❍ ${prefix}hwaifu
 ║➩ ❍ ${prefix}hneko
 ║➩ ❍ ${prefix}ecchi
-║➩ ❍ ${prefix}hentai
 ║➩ ❍ ${prefix}ahegao
 ║➩ ❍ ${prefix}nekopoi
 ║➩ ❍ ${prefix}eroyuri
@@ -49,21 +48,12 @@ const menunsfw = (prefix, sender) => {
 ║➩ ❍ ${prefix}futanari
 ║➩ ❍ ${prefix}lewdkemo
 ║➩ ❍ ${prefix}wallpaper
-║➩ ❍ ${prefix}animefeets
 ║➩ ❍ ${prefix}animebooty
 ║➩ ❍ ${prefix}pussy_jpg
-║➩ ❍ ${prefix}chiisaihentai
 ║➩ ❍ ${prefix}animethighss
 ║➩ ❍ ${prefix}kemonomimi
 ║➩ ❍ ${prefix}nsfw_avatar
-║➩ ❍ ${prefix}hentaiparadise
 ║➩ ❍ ${prefix}traph (trapito)
-║➩ ❍ ${prefix}animearmpits
-║➩ ❍ ${prefix}hentaifemdom
-║➩ ❍ ${prefix}lewdanimegirls
-║➩ ❍ ${prefix}biganimetiddies
-║➩ ❍ ${prefix}animebellybutton
-║➩ ❍ ${prefix}hentai4everyone
   _*STICKERS H*_
 ║➩ ❍ ${prefix}nsfw_neko_gif (sticker)
 ║➩ ❍ ${prefix}random_hentai_gif (sticker)
